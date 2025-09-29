@@ -14,11 +14,11 @@ A simple project management tool to help teams organize, track, and deliver proj
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/projectmanagement.git
+    git clone https://github.com/yourusername/easemyProject.git
     ```
 2. Install dependencies:
     ```bash
-    cd projectmanagement
+    cd easemyProject
     npm install
     ```
 
