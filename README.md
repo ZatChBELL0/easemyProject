@@ -14,14 +14,14 @@ It still need lot of work.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/easemyProject.git
-   ```
+    ```bash
+    git clone https://github.com/yourusername/easemyProject.git
+    ```
 2. Install dependencies:
-   ```bash
-   cd easemyProject
-   npm install
-   ```
+    ```bash
+    cd easemyProject
+    npm install
+    ```
 
 ## Usage
 
