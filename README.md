@@ -1,6 +1,7 @@
 # Project Management
 
 A simple project management tool to help teams organize, track, and deliver projects efficiently.
+It still need lot of work.
 
 ## Features
 
